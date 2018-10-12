@@ -1,1 +1,3 @@
-# komutlar
+"# test" 
+"# bot" 
+"# bot" 
